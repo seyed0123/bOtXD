@@ -23,6 +23,10 @@ Navigate to the server directory and install the necessary dependencies:
 Start the bot by running the following command:
 
 `go run main.go`
+
+### Running the gpt server
+To get the gpt server pls check [OXDebate](https://www.github.com/seyed0123/OXDebate) repo and download `gpt.ipynb` and run it.
+
 ### Invite the Bot to Your Discord Server
 To invite the bot to your Discord server, navigate to the Discord Developer Portal, create a new application, and generate an invite link. Use this link to invite the bot to your server.
 
